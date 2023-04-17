@@ -6,7 +6,7 @@ Node, Express, Mongodb, Mongoose, jsonwebtoken, bcryptjs, multer, validator, jes
 ### `npm run dev`
 Runs the node applicaiton in development mode on port 3000
 ### `/< mongodbInstalledPath >/mongodb/bin/mongod --dbpath=/< mongodbInstalledPath >/mongodb-data;`
-Runs the local db
+Runs the local db (create a folder named mongodb-data for storing the data locally)
 ## Concepts covered
 CRUD operations, mongoose - (Schema, Models, Documents, Queries, Connections, Middleware, Populate, Validations, Timestamps), JWT token authentication, file upload, Unit testing 
 ## Sample request and their response
