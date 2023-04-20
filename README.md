@@ -1,4 +1,5 @@
 # taskManagement-usingNodeJs
+## Description
 Developed endpoints for performing CRUD operations on users and their tasks with authentication using JWT token
 ## Tech and library stack
 Node, Express, Mongodb, Mongoose, jsonwebtoken, bcryptjs, multer, validator, jest, supertest
